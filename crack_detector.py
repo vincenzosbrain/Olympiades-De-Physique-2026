@@ -9,7 +9,7 @@ import numpy as np
 import time
 
 #URL a MODIFIER !
-url = "http://192.168.178.25:4747/video"
+url = "http://xxx.xxx.xxx.xx:4747/video"
 cap = cv2.VideoCapture(url)
 
 if not cap.isOpened():
